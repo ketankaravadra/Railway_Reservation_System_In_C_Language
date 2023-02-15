@@ -1,0 +1,6 @@
+1,9687863810,admin,admin,admin,1.
+2,9687863810,Ketan,Gandhinagar,Ketan@123,2.
+3,9687896523,karan,Amd,Karan@123,2.
+3,8965231470,ishita,Kolkata,Ishita@123,2.
+9,9638527410,sana,sanaaadress,K@sana123,2.
+4,9687863810,gaurav,ankleshvar,Gaurav@2558,2.
